@@ -18,6 +18,7 @@
 
 #include <atomic>
 #include <assert.h>
+#include <stddef.h>
 
 namespace bro::containers {
 template<typename T>
